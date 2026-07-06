@@ -1,6 +1,6 @@
 # Hey, I'm belcik 👋
 
-**I enjoy to playing CTFs**
+**I enjoy playing CTFs**
 
 ---
 
