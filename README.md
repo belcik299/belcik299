@@ -1,10 +1,10 @@
-# Hey, I'm belcik 👋
+# Hey, I'm belcik 
 
 **I enjoy playing CTFs**
 
 ---
 
-### ⚡ My favorite subjects
+###  My favorite subjects
 
 🪛 **Hardware**  
 🔍 **Reverse Engineering**  
