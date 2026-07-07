@@ -13,3 +13,4 @@
 ---
 
 If you want to ask something you can add me at discord: **hubipwns.**
+![](https://hit.yhype.me/github/profile?account_id=220730043)
